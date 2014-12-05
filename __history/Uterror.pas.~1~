@@ -33,7 +33,6 @@ begin
             -1: res := 'Dades de creació incomplertes';
             -2: res := 'La quantitat ha de ser superior o igual a 0';
             -3: res := 'Cap vaixell seleccionat';
-            -4: res := 'Soc el puto amo';
         //errors nau (-101-200)
             -101: res := 'No es poden crear més vaixells';
             -102: res := 'El vaixell que es vol crear ja existeix';
@@ -50,7 +49,7 @@ begin
             -201: res := 'Un vaixell en reparació no pot navegar';
             -202: res := 'El port destí ha de ser diferent al actual';
             -203: res := 'Per a poder navegar, el vaixell ha destar actualment a port';
-            -204: res := 'No es pot introduir aquesta càrrega degut a que sobrepasa a la capacitat màxima';
+            -204: res := 'No es pot introduir aquesta càrrega degut a que supera a la capacitat màxima';
 
      end;
   result := res;
