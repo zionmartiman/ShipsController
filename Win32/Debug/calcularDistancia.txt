@@ -1,0 +1,13 @@
+function TGPS.calculaDistancia(origen, desti: string): integer;
+var
+  total:string;
+  i,suma:integer;
+begin
+  suma := 0;
+  total := origen + desti;
+  for I := 0 to length(total) -1 do
+  begin
+    suma := suma + ord(total[i]);
+  end;
+  result := 10 + (suma MOD 20);
+end;

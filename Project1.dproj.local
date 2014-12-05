@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/11/26 08:43:22.000.746,=C:\Users\marti_000\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/11/26 08:44:31.000.645,=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\Vaixells.pas</Transaction>
+    <Transaction>2014/11/26 08:45:14.000.970,=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\Uterror.pas</Transaction>
+    <Transaction>2014/11/26 08:45:15.000.004,=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\Utmeteo.pas</Transaction>
+    <Transaction>2014/11/26 08:45:15.000.020,=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\UtNau.pas</Transaction>
+    <Transaction>2014/11/26 08:45:15.000.034,=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\UtVaixell.pas</Transaction>
+    <Transaction>2014/11/26 08:48:28.000.688,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\Vaixells.dfm=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Vaixells.dfm</Transaction>
+    <Transaction>2014/11/26 08:48:28.000.688,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\Vaixells.pas=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Vaixells.pas</Transaction>
+    <Transaction>2014/11/26 08:49:01.000.675,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\UtNau.pas=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\UtNau.pas</Transaction>
+    <Transaction>2014/11/26 08:49:15.000.514,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\UtVaixell.pas=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\UtVaixell.pas</Transaction>
+    <Transaction>2014/11/26 08:49:29.000.013,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\Utmeteo.pas=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Utmeteo.pas</Transaction>
+    <Transaction>2014/11/26 08:49:47.000.372,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN SENSE HAVER CANVIAT RES\Uterror.pas=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Uterror.pas</Transaction>
+    <Transaction>2014/11/26 08:50:01.000.811,C:\Users\marti_000\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Project1.dproj</Transaction>
+    <Transaction>2014/11/26 11:44:45.000.410,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Vaixells.dfm=C:\Users\marti_000\Desktop\RocaOlivéMartí\Vaixells.dfm</Transaction>
+    <Transaction>2014/11/26 11:44:45.000.410,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Vaixells.pas=C:\Users\marti_000\Desktop\RocaOlivéMartí\Vaixells.pas</Transaction>
+    <Transaction>2014/11/26 11:46:22.000.318,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\UtNau.pas=C:\Users\marti_000\Desktop\RocaOlivéMartí\UtNau.pas</Transaction>
+    <Transaction>2014/11/26 11:46:50.000.698,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\UtVaixell.pas=C:\Users\marti_000\Desktop\RocaOlivéMartí\UtVaixell.pas</Transaction>
+    <Transaction>2014/11/26 11:47:10.000.329,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Utmeteo.pas=C:\Users\marti_000\Desktop\RocaOlivéMartí\Utmeteo.pas</Transaction>
+    <Transaction>2014/11/26 11:47:32.000.862,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Uterror.pas=C:\Users\marti_000\Desktop\RocaOlivéMartí\Uterror.pas</Transaction>
+    <Transaction>2014/11/26 11:48:33.000.715,C:\Users\marti_000\Desktop\EXAMEN\EXAMEN\Project1.dproj=C:\Users\marti_000\Desktop\RocaOlivéMartí\Project1.dproj</Transaction>
+    <Transaction>2014/11/26 12:24:50.000.718,=C:\Users\marti_000\Desktop\RocaOlivéMartí\Unit1.pas</Transaction>
+    <Transaction>2014/11/26 12:25:18.000.499,C:\Users\marti_000\Desktop\RocaOlivéMartí\UtGPS.pas=C:\Users\marti_000\Desktop\RocaOlivéMartí\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
